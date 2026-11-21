@@ -61,5 +61,4 @@ My next steps are to strengthen my networking and Linux fundamentals through aut
 ## Contact Information
 
 - GitHub: [25111729](https://github.com/25111729)
-- LinkedIn: <!-- Add your profile link -->
-- Professional email: <!-- Add an email you are comfortable publishing -->
+- LinkedIn: [Tao Ding](https://www.linkedin.com/in/tao-ding-6575ab451/)
