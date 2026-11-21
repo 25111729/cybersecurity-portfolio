@@ -54,7 +54,9 @@ Overall, the labs have given me a first step in building a responsible workflow:
 
 ## Career Objective
 
-<!-- Write 100–200 words. Name a target role and your next two or three steps. -->
+My career objective is to begin in a junior cybersecurity analyst role, such as a SOC analyst, where I can help monitor systems, review security alerts, and support practical risk reduction. My coursework and lab exercises have introduced me to isolated virtual environments, basic network discovery, and service-version scanning. I want to build these foundations into stronger defensive analysis and incident response skills.
+
+My next steps are to strengthen my networking and Linux fundamentals through authorized labs, practise analysing basic logs and triaging security alerts, and develop a portfolio of clear, sanitised project reports. I will also research an entry-level certification that matches the roles I hope to apply for and make a preparation plan. I will measure my progress by completing several documented labs and being able to explain the scope, evidence, and defensive recommendations for each.
 
 ## Contact Information
 
