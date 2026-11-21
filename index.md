@@ -8,7 +8,10 @@ I am a cybersecurity student building practical skills in network security and a
 
 | Skill | Level | Project evidence |
 |---|---|---|
-| <!-- Skill --> | <!-- Beginner / Working knowledge / Confident --> | <!-- Link to a project --> |
+| Virtual lab setup and snapshots with UTM | Beginner | [Isolated Virtual Lab Setup](projects/virtual-lab-setup/README.md) |
+| Kali Linux command-line basics | Beginner | [Nmap Service Enumeration](projects/nmap-service-enumeration/README.md) |
+| Nmap host discovery and service-version scanning | Beginner | [Nmap Service Enumeration](projects/nmap-service-enumeration/README.md) |
+| Documenting scan findings and defensive notes | Beginner | [Nmap Service Enumeration](projects/nmap-service-enumeration/README.md) |
 
 ## Certifications and Training
 
