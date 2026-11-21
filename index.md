@@ -1,3 +1,5 @@
+title: Cybersecurity Portfolio
+
 ## About Me
 
 I am a cybersecurity student building practical skills in network security and authorized security testing. I am especially interested in understanding how systems are exposed on a network and how defenders can reduce that exposure. Through my coursework, I have set up an isolated virtual lab with Kali Linux and Metasploitable 2, used host-only networking to keep practice contained, and used ping and Nmap for host discovery and service-version identification. These exercises have helped me connect technical tools with defensive questions and better understand how scan results can guide security improvements. I aim to keep learning through structured labs, careful note-taking, and evidence-based project work. I value clear scope, safe testing, and honest reporting, and I am developing my ability to explain technical findings in a clear and useful way.
