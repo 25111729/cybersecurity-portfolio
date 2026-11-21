@@ -15,7 +15,16 @@ I am a cybersecurity student building practical skills in network security and a
 
 ## Certifications and Training
 
-<!-- List earned certifications and completed training. Clearly label anything in progress and add a target date. -->
+## Certifications and Training
+
+### Certifications
+
+No cybersecurity certifications earned yet.
+
+### Training
+
+- Cybersecurity coursework: Set up an isolated virtual lab using UTM, Kali Linux, and Metasploitable 2.
+- Hands-on lab: Used a host-only network, checked connectivity, and practised Nmap host discovery and service-version scanning in the lab.
 
 ## Projects
 
