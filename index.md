@@ -40,7 +40,17 @@ Used a host-only network to check connectivity, discover live lab hosts, and ide
 
 ## Learning Journey
 
-<!-- Write 400–600 words. Include two course topics or labs, one problem you diagnosed and fixed, one challenging topic, and a measurable goal with a target date. -->
+These two labs helped me see that cybersecurity practice depends on a safe, repeatable setup before any testing begins. In Lab 1, I used UTM to run Kali Linux as the attacker VM and Metasploitable 2 as the target. I created a fresh-install snapshot for each VM so I could return to a known starting point after later exercises. Keeping the machines separate and preserving clean snapshots gave me a controlled way to practise without involving systems outside the lab. I also learned that preparing the environment is itself a security task: a test is only responsible when its scope and isolation are clear.
+
+Lab 2 built on that setup. I used a host-only network, checked connectivity with ping, used `nmap -sn` to find live hosts, then used `nmap -sV` to identify services and reported versions on the target. The commands answered different questions: ping checked reachability, `-sn` checked which hosts were online, and `-sV` added service and version information. The exercise found two live hosts, my Kali VM and the Metasploitable target. My notes recorded FTP on port 21 and SSH on port 22 as examples. This helped me connect an inventory of services to defensive questions about whether each service is needed and how it should be maintained.
+
+While preparing this portfolio, I noticed that my original Lab 2 findings table was incomplete. It listed FTP and SSH but did not contain the two risk notes requested by the lab. I compared my table with the scan screenshot and the submission checklist, then added two defensive notes to the project write-up. This showed me that seeing command output is not the same as finishing an analysis. I need to record what the result means and suggest a proportionate defense, while avoiding unsupported claims based only on a version number. In future labs, I will check the report against the task requirements before considering it finished.
+
+One area I am still developing is interpreting service-version scan results. Nmap can identify a service and version, but deciding what to prioritize requires more context: whether the service is exposed beyond the lab, whether it is necessary, and whether the installed version is supported. I want more practice turning scan output into a concise, evidence-based risk explanation and a practical mitigation. I also need to improve my Linux command-line fluency so I can work through scan output and keep clean notes efficiently.
+
+As a proposed next goal, by 31 January 2027 I will complete three additional authorized network-security labs in isolated environments. For each lab, I will record the scope, environment, main steps, results, and one defensive recommendation, and save at least one sanitized piece of evidence. I will measure progress by having three complete write-ups and checking that another student could follow my notes to understand what I tested and why. This goal is specific and manageable, and it will help me strengthen both technical practice and communication.
+
+Overall, the labs have given me a first step in building a responsible workflow: establish a bounded environment, identify the target, collect evidence, interpret results cautiously, and present recommendations clearly. I want to keep that workflow as I move to more advanced topics.
 
 ## Career Objective
 
