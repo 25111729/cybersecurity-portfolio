@@ -15,8 +15,6 @@ I am a cybersecurity student building practical skills in network security and a
 
 ## Certifications and Training
 
-## Certifications and Training
-
 ### Certifications
 
 No cybersecurity certifications earned yet.
