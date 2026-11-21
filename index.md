@@ -28,13 +28,17 @@ No cybersecurity certifications earned yet.
 
 ## Projects
 
-### Project 1: <!-- Project name -->
+### Isolated Virtual Lab Setup
 
-<!-- Brief summary and link to its project folder. -->
+Set up a controlled virtual lab with separate Kali Linux and Metasploitable 2 virtual machines. Created clean snapshots so the lab could be restored for later exercises.
 
-### Project 2: <!-- Project name -->
+[View project details](projects/virtual-lab-setup/README.md)
 
-<!-- Brief summary and link to its project folder. -->
+### Nmap Service Enumeration
+
+Used a host-only network to check connectivity, discover live lab hosts, and identify services and versions on the target with Nmap.
+
+[View project details](projects/nmap-service-enumeration/README.md)
 
 ## Learning Journey
 
